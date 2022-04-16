@@ -63,8 +63,6 @@ Well, there are various ways to contribute to this project. Find a few of them l
 
 ## FAQ:
 1. What happens if token expires? - https://github.com/knut7/CSRF-Security-PHP/wiki/what-if-token-expires
-2. Secure flag in a cookie? - https://github.com/knut7/CSRF-Security-PHP/issues/54
-3. NoJS support? - https://github.com/knut7/CSRF-Security-PHP/tree/nojs-support
 
 ## Appendix
 
